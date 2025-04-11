@@ -230,3 +230,28 @@ footer{
 	border-radius:20px 20px;
 }
 
+
+/*ここからスマホ用*/
+
+@media screen and (max-width: 500px)
+{
+
+.underbox1{
+	display:flex;
+	flex-direction:column;
+	flex-wrap:wrap;
+	padding-top:20px;
+}
+
+.underul1{
+	width:80%;
+	margin:auto;
+}
+
+
+
+
+
+｝
+
+
