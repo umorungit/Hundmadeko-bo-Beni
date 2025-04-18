@@ -176,7 +176,7 @@ h2{
 
 .box1{
 	width:90%;
-	margin-left:4%;
+	margin:auto;
 	padding:0 4% 4% 4%;
 	margin-bottom:30px;
 	background-color:#fcf1f0;
@@ -237,4 +237,3 @@ a:hover{
 
 
 }
-
